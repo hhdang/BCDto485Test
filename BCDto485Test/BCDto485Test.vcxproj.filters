@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="BCDto485Test.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.BCDto485Test.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
